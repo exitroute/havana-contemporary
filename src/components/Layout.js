@@ -49,7 +49,6 @@ export default ({ children, meta, title }) => {
                 })
               : false
           }
-
         return (
           <Fragment>
             <Helmet
