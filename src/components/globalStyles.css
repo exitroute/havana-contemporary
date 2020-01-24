@@ -37,8 +37,8 @@ body {
   font-family: var(--font-system);
   min-height: 100%;
   position: relative;
-  background: white;
-  color: var(--secondary);
+  background: var(--darkGrey);
+  color: var(--lightGrey);
   font-size: 1.6em;
   font-weight: 400;
   letter-spacing: 0.01em;
@@ -47,7 +47,7 @@ body {
 }
 
 a {
-  color: var(--primary);
+  color: var(--lightGrey);
 }
 
 strong {
