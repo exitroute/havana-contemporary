@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Havana Contemporary
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+featuredImage: 'https://ucarecdn.com/77c932cc-7e7c-4f31-bfa0-8b21ed250f04/entonpapaercopy/'
 subtitle: A guide on contemporary art in Havana, Cuba.'
 meta:
   description: This is a meta description.
